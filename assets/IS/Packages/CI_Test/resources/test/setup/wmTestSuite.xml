@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="" name="printTest">
+    <webMethodsTestCase name="">
+        <service folder="" name="">
+            <input>
+                <file/>
+            </input>
+            <expected>
+                <file/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>
