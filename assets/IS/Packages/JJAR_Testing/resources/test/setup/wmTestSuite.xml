@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="EchoTest" name="EchoTest">
+    <webMethodsTestCase name="Test">
+        <service folder="JJAR_Testing.services" name="echo">
+            <input>
+                <file/>
+            </input>
+            <expected>
+                <file filename="resources\test\data\output1.txt"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>
