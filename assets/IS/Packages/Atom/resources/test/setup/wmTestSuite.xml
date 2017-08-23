@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="Scenario 1- only number with leading zeros" name="GeneralTest">
+    <webMethodsTestCase name="testWithNumber">
+        <service folder="Atom.services" name="removeLeadingZeroes">
+            <input>
+                <file filename="resources\test\data\numberonlyinput"/>
+            </input>
+            <expected>
+                <file filename="resources\test\data\numberonlyoutput"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>
