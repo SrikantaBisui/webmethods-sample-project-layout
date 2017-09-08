@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="EchoTest" name="EchoTest">
+    <webMethodsTestCase name="Test">
+        <service folder="JJAR_Testing.Resources.ManageUsers.searchUsers" name="_get">
+            <input>
+                <file filename="D:\Users\sbisui\git\webmethods-sample-project-layout\assets\IS\Packages\JJAR_Testing\resources\test\data\testCase1In"/>
+            </input>
+            <expected>
+                <file filename="resources\test\data\testCase1out"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>
