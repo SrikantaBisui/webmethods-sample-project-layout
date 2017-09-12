@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="removeLeadingZeroTest" name="removeLeadingZeroTest">
+    <webMethodsTestCase name="">
+        <service folder="JJAR_Testing.services" name="removeLeadingZeroes">
+            <input>
+                <file filename="D:\Users\sbisui\git\webmethods-sample-project-layout\assets\IS\Packages\JJAR_Testing\resources\test\data\leadingZeroTestCase1Input"/>
+            </input>
+            <expected>
+                <file filename="D:\Users\sbisui\git\webmethods-sample-project-layout\assets\IS\Packages\JJAR_Testing\resources\test\data\leadingZeroTestCase1Output"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>

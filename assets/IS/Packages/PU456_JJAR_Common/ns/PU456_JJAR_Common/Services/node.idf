@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="encodeutf8">true</value>
+  <value name="shared">cHVibGljIHN0YXRpYyBib29sZWFuIGV4aXN0cyhTdHJpbmcgcGF0aCkKCQl0aHJvd3MgRXhjZXB0
+aW9uIHsKCQlib29sZWFuIGV4aXN0cyA9IGZhbHNlOwoJCUZpbGUgZmlsZSA9IG5ldyBGaWxlKHBh
+dGgpOwoJCXJldHVybiBmaWxlLmV4aXN0cygpICYmIChmaWxlLmlzRmlsZSgpIHx8IGZpbGUuaXNE
+aXJlY3RvcnkoKSk7Cgl9CgpwdWJsaWMgc3RhdGljIFN0cmluZyByZWFkU3RyaW5nKFN0cmluZyBw
+YXRoLCBpbnQgc3RhcnQsIGludCBsZW5ndGgpCgkJdGhyb3dzIEV4Y2VwdGlvbiB7CgkJcmV0dXJu
+IG5ldyBTdHJpbmcocmVhZEJ5dGVzKHBhdGgsIHN0YXJ0LCBsZW5ndGgpKTsKCX0KCQoJcHVibGlj
+IHN0YXRpYyBTdHJpbmdbXSByZWFkTGluZXMoU3RyaW5nIHBhdGgsIGludCBzdGFydCwgaW50IGxl
+bmd0aCkKCQl0aHJvd3MgRXhjZXB0aW9uIHsKCQlpZiAoIWV4aXN0cyhwYXRoKSkgewoJCQlyZXR1
+cm4gbmV3IFN0cmluZ1swXTsKCQl9CgkKCQlBcnJheUxpc3QgY29udGVudCA9IG5ldyBBcnJheUxp
+c3QoKTsKCQlCdWZmZXJlZFJlYWRlciBpbiA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgRmlsZVJl
+YWRlcihwYXRoKSk7CgkJU3RyaW5nIGxpbmUgPSAiIjsKCQlsb25nIGxuID0gMDsKCQl3aGlsZSAo
+KGxpbmUgPSBpbi5yZWFkTGluZSgpKSAhPSBudWxsKSB7CgkJCWlmIChsbiA+PSBzdGFydCkgewoJ
+CQkJY29udGVudC5hZGQobGluZSk7CgkJCQlpZiAobGVuZ3RoID4gMCAmJiBzdGFydCArIGxuID49
+IGxlbmd0aCkgewoJCQkJCWJyZWFrOwoJCQkJfQoJCQl9CgkJCWxuKys7CgkJfQoJCWluLmNsb3Nl
+KCk7CgkJcmV0dXJuIChTdHJpbmdbXSljb250ZW50LnRvQXJyYXkobmV3IFN0cmluZ1swXSk7Cgl9
+CgkKCXB1YmxpYyBzdGF0aWMgYnl0ZVtdIHJlYWRCeXRlcyhTdHJpbmcgcGF0aCwgaW50IHN0YXJ0
+LCBpbnQgbGVuZ3RoKQoJCXRocm93cyBFeGNlcHRpb24gewoJCWlmICghZXhpc3RzKHBhdGgpKSB7
+CgkJCXJldHVybiBuZXcgYnl0ZVswXTsKCQl9CgkKCQlCeXRlQXJyYXlPdXRwdXRTdHJlYW0gYm91
+dCA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsKCQlGaWxlSW5wdXRTdHJlYW0gZmluID0g
+KEZpbGVJbnB1dFN0cmVhbSlyZWFkU3RyZWFtKHBhdGgpOwoJCWludCBwb3MgPSBzdGFydDsKCQlp
+bnQgcmVhZCA9IDA7CgkJYnl0ZVtdIGJ1ZmZlciA9IG5ldyBieXRlWzgxOTJdOwoJCXdoaWxlICgo
+cmVhZCA9IGZpbi5yZWFkKGJ1ZmZlciwgMCwgYnVmZmVyLmxlbmd0aCkpID4gMCAmJiAocG9zIDwg
+bGVuZ3RoIHx8IGxlbmd0aCA9PSAtMSkpIHsKCQkJYm91dC53cml0ZShidWZmZXIsIDAsIHJlYWQp
+OwoJCQlwb3MgKz0gcmVhZDsKCQl9CgkJYm91dC5mbHVzaCgpOwoJCgkJYnl0ZVtdIGJ5dGVzID0g
+Ym91dC50b0J5dGVBcnJheSgpOwoJCWJvdXQuY2xvc2UoKTsKCQlyZXR1cm4gYnl0ZXM7Cgl9CgkK
+CXB1YmxpYyBzdGF0aWMgSW5wdXRTdHJlYW0gcmVhZFN0cmVhbShTdHJpbmcgcGF0aCkKCQl0aHJv
+d3MgRXhjZXB0aW9uIHsKCQlyZXR1cm4gbmV3IEZpbGVJbnB1dFN0cmVhbShwYXRoKTsKCX0KCQoJ
+cHVibGljIHN0YXRpYyBsb25nIHNpemUoU3RyaW5nIGZpbGVuYW1lKQoJCXRocm93cyBFeGNlcHRp
+b24gewoJCXJldHVybiBuZXcgRmlsZShmaWxlbmFtZSkubGVuZ3RoKCk7Cgl9CgkKCXB1YmxpYyBz
+dGF0aWMgU3RyaW5nIGdldE5hbWUoU3RyaW5nIHBhdGgpCgkJdGhyb3dzIEV4Y2VwdGlvbiB7CgkJ
+aWYgKHBhdGgubGFzdEluZGV4T2YoRmlsZS5zZXBhcmF0b3IpID49IDApIHsKCQkJcGF0aCA9IHBh
+dGguc3Vic3RyaW5nKHBhdGgubGFzdEluZGV4T2YoRmlsZS5zZXBhcmF0b3IpICsgMSwgcGF0aC5s
+ZW5ndGgoKSk7CgkJfQoJCXJldHVybiBwYXRoOwoJfQoJCglwdWJsaWMgc3RhdGljIFN0cmluZyBn
+ZXRQYXJlbnQoU3RyaW5nIHBhdGgpCgkJdGhyb3dzIEV4Y2VwdGlvbiB7CgkJcmV0dXJuIG5ldyBG
+aWxlKHBhdGgpLmdldFBhcmVudEZpbGUoKS5nZXRDYW5vbmljYWxQYXRoKCk7Cgl9Cgk=</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.io.*</value>
+    <value>com.wm.util.coder.*</value>
+    <value>com.wm.util.Debug</value>
+    <value>java.net.UnknownHostException</value>
+    <value>com.wm.app.b2b.server.*</value>
+    <value>java.util.Date</value>
+    <value>java.net.InetAddress</value>
+    <value>com.wm.lang.ns.NSName</value>
+    <value>java.text.*</value>
+    <value>java.util.*</value>
+  </array>
+</Values>

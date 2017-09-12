@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="searchUserTest" name="searchUserTest.xml">
+    <webMethodsTestCase name="TestCase1">
+        <service folder="JJAR_Testing.services" name="searchUsers">
+            <input>
+                <file filename="D:\Users\sbisui\git\webmethods-sample-project-layout\assets\IS\Packages\JJAR_Testing\resources\test\data\testCase1In"/>
+            </input>
+            <expected>
+                <file filename="D:\Users\sbisui\git\webmethods-sample-project-layout\assets\IS\Packages\JJAR_Testing\resources\test\data\testCase2Out"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+    <webMethodsTestCase name="TestCase2">
+        <service folder="JJAR_Testing.services" name="searchUsers">
+            <input>
+                <file filename="D:\Users\sbisui\git\webmethods-sample-project-layout\assets\IS\Packages\JJAR_Testing\resources\test\data\testCase2In"/>
+            </input>
+            <expected>
+                <file filename="D:\Users\sbisui\git\webmethods-sample-project-layout\assets\IS\Packages\JJAR_Testing\resources\test\data\testCase2Out"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>
