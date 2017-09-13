@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <record name="SearchUserDetails" javaclass="com.wm.data.ISMemDataImpl">
+      <array name="data" type="record" depth="1">
+        <record javaclass="com.wm.data.ISMemDataImpl">
+          <value name="WWID">702048832</value>
+          <value name="userId">sbisui</value>
+          <value name="firstName">Srikanta</value>
+          <value name="lastName">Bisui</value>
+        </record>
+      </array>
+    </record>
+  </record>
+</IDataXMLCoder>

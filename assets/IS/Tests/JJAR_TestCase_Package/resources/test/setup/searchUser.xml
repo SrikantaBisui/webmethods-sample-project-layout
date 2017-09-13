@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <webMethodsTestSuite description="searchUser" name="searchUser">
-    <webMethodsTestCase name="TestCase1">
+    <webMethodsTestCase name="SearchUserTestCase2">
+        <service folder="JJAR_Testing.services" name="searchUsers">
+            <input>
+                <file filename="resources\test\data\Input_SearchUserTestCase2"/>
+            </input>
+            <expected>
+                <file filename="resources\test\data\Output_SearchUserTestCase2"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+    <webMethodsTestCase name="SearchUserTestCase1">
         <service folder="JJAR_Testing.services" name="searchUsers">
             <input>
                 <file filename="resources\test\data\Input_SearchUserTestCase1"/>
