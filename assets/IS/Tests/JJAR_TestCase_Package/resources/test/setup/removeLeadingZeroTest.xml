@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <webMethodsTestSuite description="removeLeadingZeroTest" name="removeLeadingZeroTest">
-    <webMethodsTestCase name="">
+    <webMethodsTestCase name="TestCase1">
         <service folder="JJAR_Testing.services" name="removeLeadingZeroes">
             <input>
-                <file/>
+                <file filename="resources\test\data\Input_removeLeadingZeroTestCase1"/>
             </input>
             <expected>
-                <file/>
+                <file filename="resources\test\data\Output_removeLeadingZeroTestCase1"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+    <webMethodsTestCase name="TestCase2">
+        <mock folder="pub.string" name="concat">
+            <pipeline filename="resources\test\data\mock1Output"/>
+        </mock>
+        <service folder="JJAR_Testing.services" name="removeLeadingZeroes">
+            <input>
+                <file filename="resources\test\data\Input_removeLeadingZeroTestCase2"/>
+            </input>
+            <expected>
+                <file filename="resources\test\data\Output_removeLeadingZeroTestCase2"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+    <webMethodsTestCase name="TestCase3">
+        <service folder="JJAR_Testing.services" name="removeLeadingZeroes">
+            <input>
+                <file filename="resources\test\data\Input_removeLeadingZeroTestCase3"/>
+            </input>
+            <expected>
+                <file filename="resources\test\data\Output_removeLeadingZeroTestCase3"/>
             </expected>
         </service>
     </webMethodsTestCase>
